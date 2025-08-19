@@ -1,2 +1,2 @@
 # AI-thoughts
-A repo for my own ideas
+A repo for my own ideas 
